@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannisbrunnema00brungoog/joannisbrunnema00brungoog_0004.png"; bbox 0 0 4734 6109; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 120 1720 2287 2614">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 86 1578 2287 2667">
+     <span class='ocr_line' id='line_1_1' title="bbox 312 1720 2287 2051; baseline -0.022 -108.031"><span class='ocrx_word' id='word_1_1' title='bbox 312 1720 1908 2051; x_wconf 74' lang='lat' dir='ltr'>BRUNNEMANNI</span> <span class='ocrx_word' id='word_1_2' title='bbox 2282 1894 2287 1899; x_wconf 76' lang='grc'><em>,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 120 2048 1754 2263; baseline -0.017 -18"><span class='ocrx_word' id='word_1_3' title='bbox 120 2236 150 2263; x_wconf 77' lang='grc'><strong>,,</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 263 2228 270 2241; x_wconf 86' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 480 2048 1754 2247; x_wconf 81' lang='lat' dir='ltr'>COMMENTARIUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 335 2328 1883 2614; baseline -0.009 -15"><span class='ocrx_word' id='word_1_6' title='bbox 335 2328 631 2607; x_wconf 71' lang='grc' dir='ltr'><strong>,ΙΝ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 728 2332 1883 2614; x_wconf 62' lang='lat' dir='ltr'><strong>chfflM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 82 2601 1720 3154">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 82 2601 1720 3154">
+     <span class='ocr_line' id='line_1_4' title="bbox 82 2601 1720 2846; baseline 0.028 -78"><span class='ocrx_word' id='word_1_8' title='bbox 82 2607 103 2639; x_wconf 83' lang='lat'><strong>·&#39;</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 441 2601 1720 2846; x_wconf 51' lang='lat' dir='ltr'><strong>*JU&#39;S‘TINIANEUM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 344 2920 1546 3154; baseline 0.069 -137"><span class='ocrx_word' id='word_1_10' title='bbox 344 2972 346 2981; x_wconf 30' lang='grc' dir='ltr'>ψ</span> <span class='ocrx_word' id='word_1_11' title='bbox 503 2980 513 2995; x_wconf 89' lang='grc'><strong>-</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 617 2926 732 3137; x_wconf 32' lang='lat' dir='ltr'><strong>&#39;ln</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 766 2958 988 3091; x_wconf 78' lang='lat' dir='ltr'><em>quatuor</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1025 2926 1205 3154; x_wconf 61' lang='grc' dir='ltr'><strong>Τονξο*</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1241 2920 1546 3079; x_wconf 52' lang='lat' dir='ltr'><strong>&amp;stribm&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2372 6100">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2372 6100">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2372 6100; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 2372 6100; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
